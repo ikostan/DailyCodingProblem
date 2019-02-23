@@ -1,8 +1,8 @@
 # Daily Coding Problem
 
-Those are my Python3 solutions for "Daily Coding Problem"
+Those are my Python3 solutions for "Daily Coding Problem". Each solution includes unit tests.
 
-[For more info please visit "Daily Coding Problem" website](https://www.dailycodingproblem.com)
+[For more info please visit "Daily Coding Problem" website](https://www.dailycodingproblem.com).
 
 ### Completed Puzzles (Python 3)
 
