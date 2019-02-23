@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8100051f-9f53-40cf-ae43-33aca2f1013f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test_find_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_test_find_numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_find_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_find_numbers.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_find_numbers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
+            <state relative-caret-position="150">
+              <caret line="36" column="57" lean-forward="true" selection-start-line="36" selection-start-column="57" selection-end-line="36" selection-end-column="57" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -57,7 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -154,34 +152,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_test_find_numbers_py - 2019.02.23 at 15h 03m 45s.xml">
-      <configuration name="Unittests in test_find_numbers.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_find_numbers_Test_find_numbers_false_test_find_numbers - 2019.02.23 at 15h 04m 01s.xml">
-      <configuration name="Unittests for test_find_numbers.Test_find_numbers.false_test_find_numbers" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_find_numbers_Test_find_numbers_false_test_find_numbers - 2019.02.23 at 15h 10m 08s.xml">
-      <configuration name="Unittests for test_find_numbers.Test_find_numbers.false_test_find_numbers" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_find_numbers_py - 2019.02.23 at 15h 10m 38s.xml">
-      <configuration name="Unittests in test_find_numbers.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_find_numbers_py - 2019.02.23 at 15h 11m 30s.xml">
-      <configuration name="Unittests in test_find_numbers.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_find_numbers_py - 2019.02.23 at 15h 11m 47s.xml">
-      <configuration name="Unittests in test_find_numbers.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_find_numbers_py - 2019.02.23 at 15h 12m 09s.xml">
-      <configuration name="Unittests in test_find_numbers.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_find_numbers_py - 2019.02.23 at 15h 14m 12s.xml">
-      <configuration name="Unittests in test_find_numbers.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_for_test_find_numbers_Test_find_numbers_false_test_find_numbers - 2019.02.23 at 15h 14m 25s.xml">
       <configuration name="Unittests for test_find_numbers.Test_find_numbers.false_test_find_numbers" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_in_test_find_numbers_py - 2019.02.23 at 15h 14m 37s.xml">
+      <configuration name="Unittests in test_find_numbers.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_find_numbers_py - 2019.02.23 at 15h 18m 08s.xml">
+      <configuration name="Unittests in test_find_numbers.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_find_numbers_py - 2019.02.23 at 15h 19m 10s.xml">
+      <configuration name="Unittests in test_find_numbers.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_find_numbers_py - 2019.02.23 at 15h 19m 23s.xml">
+      <configuration name="Unittests in test_find_numbers.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_find_numbers_py - 2019.02.23 at 15h 19m 45s.xml">
+      <configuration name="Unittests in test_find_numbers.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_find_numbers_py - 2019.02.23 at 15h 20m 07s.xml">
+      <configuration name="Unittests in test_find_numbers.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_find_numbers_py - 2019.02.23 at 15h 21m 24s.xml">
+      <configuration name="Unittests in test_find_numbers.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_find_numbers_py - 2019.02.23 at 15h 21m 47s.xml">
+      <configuration name="Unittests in test_find_numbers.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_find_numbers_py - 2019.02.23 at 15h 22m 01s.xml">
       <configuration name="Unittests in test_find_numbers.py" configurationId="tests" />
     </history-entry>
   </component>
@@ -194,7 +192,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.44244605" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.397482" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -229,8 +227,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_find_numbers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
+        <state relative-caret-position="150">
+          <caret line="36" column="57" lean-forward="true" selection-start-line="36" selection-start-column="57" selection-end-line="36" selection-end-column="57" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
