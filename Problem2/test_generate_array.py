@@ -1,5 +1,4 @@
 import unittest
-import types
 from Problem2 import generate_array
 
 class TestGenerateArray(unittest.TestCase):
