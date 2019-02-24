@@ -3,8 +3,8 @@ from Problem4 import find_first_missing_positive_integer
 
 class TestProblem4(unittest.TestCase):
     def test_output_is_not_null(self):
-        input_list = [3, 4, -1, 1]
-        self.assertIsNotNone(find_first_missing_positive_integer(input_list))
+        input_array = [3, 4, -1, 1]
+        self.assertIsNotNone(find_first_missing_positive_integer(input_array))
 
     def test_basic_1(self):
         # The input [3, 4, -1, 1] should give 2.

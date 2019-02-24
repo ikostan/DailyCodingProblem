@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdd531fd-47bf-412b-ad0a-dbe00267bd68" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Problem4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_find_first_missing_positive_integer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problem1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Problem1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problem2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Problem2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problem3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Problem3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_find_first_missing_positive_integer.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_find_first_missing_positive_integer.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +16,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Problem4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="8" column="72" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="85" />
+            <state relative-caret-position="126">
+              <caret line="27" column="71" selection-start-line="27" selection-start-column="71" selection-end-line="27" selection-end-column="71" />
             </state>
           </provider>
         </entry>
@@ -28,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_find_first_missing_positive_integer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            <state relative-caret-position="126">
+              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -150,6 +147,24 @@
     <history-entry file="Unittests_in_test_find_first_missing_positive_integer_py - 2019.02.23 at 19h 33m 37s.xml">
       <configuration name="Unittests in test_find_first_missing_positive_integer.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_test_find_first_missing_positive_integer_py - 2019.02.23 at 19h 37m 36s.xml">
+      <configuration name="Unittests in test_find_first_missing_positive_integer.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_find_first_missing_positive_integer_py - 2019.02.23 at 19h 38m 12s.xml">
+      <configuration name="Unittests in test_find_first_missing_positive_integer.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_find_first_missing_positive_integer_py - 2019.02.23 at 19h 41m 26s.xml">
+      <configuration name="Unittests in test_find_first_missing_positive_integer.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_find_first_missing_positive_integer_py - 2019.02.23 at 19h 43m 42s.xml">
+      <configuration name="Unittests in test_find_first_missing_positive_integer.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_find_first_missing_positive_integer_py - 2019.02.23 at 19h 45m 36s.xml">
+      <configuration name="Unittests in test_find_first_missing_positive_integer.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_find_first_missing_positive_integer_py - 2019.02.23 at 19h 47m 53s.xml">
+      <configuration name="Unittests in test_find_first_missing_positive_integer.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -164,7 +179,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.89028776" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24640287" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -177,15 +192,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Problem4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" column="72" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="85" />
+        <state relative-caret-position="126">
+          <caret line="27" column="71" selection-start-line="27" selection-start-column="71" selection-end-line="27" selection-end-column="71" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_find_first_missing_positive_integer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        <state relative-caret-position="126">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>

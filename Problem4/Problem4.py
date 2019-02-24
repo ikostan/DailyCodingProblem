@@ -13,6 +13,23 @@ You can modify the input array in-place.
 
 def find_first_missing_positive_integer(input_list):
     number = None
+    numbers_list = list()
+
+    # Sort the list:
+    input_list.sort()
+    #print(input_list)
+
+    # Find is there any missing int between two array members
+    for n in range(len(input_list) - 1):
+        num = input_list[n+1] - input_list[n]
+        if num > 1:
+            numbers_list.append(num)
+
+    # Test is there any valid missing integers, if not create a new one
+    if len(numbers_list) > 0:
+        number = min(numbers_list)
+    else:
+        number = max(input_list) + 1
 
     return number
 
