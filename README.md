@@ -15,6 +15,9 @@ Those are my Python3 solutions for "Daily Coding Problem". Each solution include
 |5    |Problem #5      | N/A | - |[Solution](https://github.com/ikostan/DailyCodingProblem/tree/master/Problem5)|
 |6    |Problem #6      | N/A | - |[Solution](https://github.com/ikostan/DailyCodingProblem/tree/master/Problem6)|
 |7    |Problem #7      | N/A | - |[Solution](https://github.com/ikostan/DailyCodingProblem/tree/master/Problem7)|
+|8    |Problem #8      | N/A | - |[Solution](https://github.com/ikostan/DailyCodingProblem/tree/master/Problem8)|
+|9    |Problem #9      | N/A | - |[Solution](https://github.com/ikostan/DailyCodingProblem/tree/master/Problem9)|
+|10    |Problem #10      | N/A | - |[Solution](https://github.com/ikostan/DailyCodingProblem/tree/master/Problem10)|
 
 
 
