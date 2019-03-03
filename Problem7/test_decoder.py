@@ -3,6 +3,11 @@ from Problem7 import decoder
 
 
 class TestDecoder(unittest.TestCase):
+
+    def test_return_data_type(self):
+        msg = '111'
+        self.assertTrue(isinstance(decoder(msg), set))
+
     def test_basic_case(self):
         msg = '111'
         answer = 3
