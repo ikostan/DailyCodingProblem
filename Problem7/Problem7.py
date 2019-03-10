@@ -20,14 +20,8 @@ def decoder(msg):
     codes = dict(enumerate(alphabet, 1))
     possible_messages = set()
     size = len(msg)
-    for i in range(size):
-        first = ''
-        second = ''
-        if size - 1 > 2:
 
-        elif size - i < 3:
 
-        else:
 
     return possible_messages
 
