@@ -12,10 +12,22 @@ You can assume that the messages are decodable. For example, '001' is not allowe
 
 '''
 
+import string
+
 
 def decoder(msg):
+    alphabet = list(string.ascii_lowercase)
+    codes = dict(enumerate(alphabet, 1))
     possible_messages = set()
+    size = len(msg)
+    for i in range(size):
+        first = ''
+        second = ''
+        if size - 1 > 2:
+
+        elif size - i < 3:
+
+        else:
+
     return possible_messages
-
-
 

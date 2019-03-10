@@ -4,21 +4,15 @@ from Problem7 import decoder
 
 class TestDecoder(unittest.TestCase):
 
-    def test_return_data_type(self):
-        msg = '111'
-        self.assertTrue(isinstance(decoder(msg), set))
+    def test_output(self):
+        message = '111'
+        result = ('aaa', 'ka', 'ak')
+        self.assertListEqual(list(decoder(message)), list(result))
 
-    def test_basic_case(self):
-        msg = '111'
-        answer = 3
-        self.assertEqual(answer, len(decoder(msg)))
+    def test_output_len(self):
+        message = '111'
+        result = ('aaa', 'ka', 'ak')
+        n = len(result)
+        self.assertEqual(len(decoder(message)), n)
 
-    def test_msg_decoder(self):
-        msg = '111'
-        answer = {'aaa', 'ka', 'ak'}
-        decoder_results = decoder(msg)
-        dif = decoder_results.difference(answer)
-        # Test is dif set is empty, bool() will do something similar to not not,
-        # but more idiomatic and clear.
-        self.assertTrue(bool(dif))
 

@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="746b641e-87aa-4333-8777-4543cd1ef62b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_decoder.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_decoder.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Problem7.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="-168">
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -24,8 +26,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_decoder.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="126">
+              <caret line="9" column="65" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -48,8 +50,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Problem7.py" />
         <option value="$PROJECT_DIR$/../README.md" />
+        <option value="$PROJECT_DIR$/Problem7.py" />
         <option value="$PROJECT_DIR$/test_decoder.py" />
       </list>
     </option>
@@ -126,21 +128,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_test_decoder_py - 2019.03.03 at 14h 33m 06s.xml">
-      <configuration name="Unittests in test_decoder.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_decoder_py - 2019.03.03 at 14h 33m 43s.xml">
-      <configuration name="Unittests in test_decoder.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_decoder_py - 2019.03.03 at 14h 52m 34s.xml">
-      <configuration name="Unittests in test_decoder.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_decoder_py - 2019.03.03 at 14h 53m 08s.xml">
-      <configuration name="Unittests in test_decoder.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_decoder_py - 2019.03.03 at 14h 53m 22s.xml">
-      <configuration name="Unittests in test_decoder.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_test_decoder_py - 2019.03.03 at 14h 54m 20s.xml">
       <configuration name="Unittests in test_decoder.py" configurationId="tests" />
     </history-entry>
@@ -154,6 +141,21 @@
       <configuration name="Unittests in test_decoder.py" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_in_test_decoder_py - 2019.03.03 at 14h 58m 53s.xml">
+      <configuration name="Unittests in test_decoder.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_decoder_py - 2019.03.03 at 15h 27m 12s.xml">
+      <configuration name="Unittests in test_decoder.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_decoder_py - 2019.03.03 at 15h 27m 37s.xml">
+      <configuration name="Unittests in test_decoder.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_decoder_py - 2019.03.03 at 15h 28m 27s.xml">
+      <configuration name="Unittests in test_decoder.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_decoder_py - 2019.03.03 at 15h 29m 07s.xml">
+      <configuration name="Unittests in test_decoder.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_decoder_py - 2019.03.03 at 15h 30m 13s.xml">
       <configuration name="Unittests in test_decoder.py" configurationId="tests" />
     </history-entry>
   </component>
@@ -170,7 +172,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26618704" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25179857" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -193,8 +195,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_decoder.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="126">
+          <caret line="9" column="65" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
@@ -203,8 +205,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Problem7.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="-168">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="30" />
         </state>
       </provider>
     </entry>
