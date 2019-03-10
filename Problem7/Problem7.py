@@ -21,7 +21,8 @@ def decoder(msg):
     possible_messages = set()
     size = len(msg)
 
-
+    print(codes.keys())
+    print(codes.values())
 
     return possible_messages
 
